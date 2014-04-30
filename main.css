@@ -1,0 +1,62 @@
+body {
+	background-image: url("images/background.jpg");
+	background-repeat: repeat;
+	max-width: 800px;
+  	margin: 0 auto;
+}
+
+p {
+	text-align: justify;
+	color: #52462e;
+	padding: 0 6px 0 6px;
+}
+
+img.logo {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto; 
+  	height: 100%;
+  	width: 100%;
+}
+
+img.small {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto; 
+  	height: 15%;
+  	width: 15%;
+}
+
+img.iPad {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto; 
+  	height: 85%;
+  	width: 85%;	
+}
+
+img.gardner {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto; 
+  	height: 90%;
+  	width: 90%;	
+  	padding-top: 15px;
+}
+
+ul {
+	color: #52462e;
+}
+
+.end {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	font-size: 80%;
+	text-transform: uppercase;
+	color: #52462e;
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
