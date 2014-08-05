@@ -1,4 +1,4 @@
-Day 1 Homework
+TIY - Day 1 Homework
 ==============
 Our Day 1 homework assignment at The Iron Yard was to build a basic website, taking the opportunity to explore HTML and CSS in addition to the intricacies of pushing code to GitHub. 
 
